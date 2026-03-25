@@ -23,7 +23,7 @@ Karakteristik özellikleri:
 - Qadira'da büyümesinin de etkisiyle Sarenrae konusunda çok yobaz ve orada gördüklerini sanki her yerde aynıymış gibi düşünüyor.
 - Çoğunlukla gergin, bazense sevecen
 - Sarenrae, David veya Elroth için canından vazgeçer
-<img src="assets/kFLFm9KDg/herzem_2.png" width="400" align="center">
+<img src="/../assets/kFLFm9KDg/herzem_2.png" width="400" align="center">
 
 ---
 
