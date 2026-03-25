@@ -1,0 +1,66 @@
+site_name: Carrion Crown Wiki
+site_description: Pathfinder 1e campaign wiki
+site_url: https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME/
+repo_url: https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME
+edit_uri: edit/main/docs/
+use_directory_urls: true
+
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.indexes
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.action.edit
+    - content.code.copy
+  palette:
+    scheme: slate
+    primary: black
+    accent: amber
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+
+plugins:
+  - search
+
+nav:
+  - Home: index.md
+  - Overview: overview.md
+  - Party:
+      - party/index.md
+      - Herzem al-Gaib: party/herzem-al-gaib.md
+      - Elroth Mornros: party/elroth-mornros.md
+      - Thomas Ruckus: party/thomas-ruckus.md
+      - Darian Vargo: party/darian-vargo.md
+      - Ronin Olaru: party/ronin-olaru.md
+      - Allies:
+          - party/allies/index.md
+          - David: party/allies/david.md
+          - Hippogriff: party/allies/hippogriff.md
+  - Timeline: timeline.md
+  - Sessions:
+      - session/index.md
+      - Session 1: session/session-1.md
+  - Locations:
+      - locations/index.md
+      - Ravengro & Harrowstone:
+          - locations/ravengro-and-harrowstone/index.md
+          - General Info & Story: locations/ravengro-and-harrowstone/general-info-and-story.md
+          - NPCs:
+              - locations/ravengro-and-harrowstone/npcs/index.md
+              - Friendly: locations/ravengro-and-harrowstone/npcs/friendly.md
+              - Neutral: locations/ravengro-and-harrowstone/npcs/neutral.md
+              - Enemy: locations/ravengro-and-harrowstone/npcs/enemy.md
+  - Organizations:
+      - organizations/index.md
+      - Whispering Way: organizations/whispering-way.md
+  - Mobs: mobs.md
