@@ -2,7 +2,8 @@ site_name: Carrion Crown Wiki
 site_description: Pathfinder 1e campaign wiki
 site_url: https://ahmfr0636.github.io/arodenites.github.io/
 repo_url: https://github.com/ahmfr0636/arodenites.github.io
-edit_uri: edit/main/docs/
+docs_dir: docs/carrion crown
+edit_uri: edit/main/docs/carrion crown/
 use_directory_urls: false
 
 theme:
