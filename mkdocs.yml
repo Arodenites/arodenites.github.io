@@ -37,7 +37,7 @@ plugins:
   - search
 
 nav:
-  - Home: carrion-crown/index.md
+  - Home: home.md
   - Overview: carrion-crown/overview.md
   - Party:
       - carrion-crown/party/index.md
