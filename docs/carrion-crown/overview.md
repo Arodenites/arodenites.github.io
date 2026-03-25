@@ -63,4 +63,4 @@ the windy moors at night.
 
 ## Map
 Map is updated according to where party visits.
-![map-1](/arodenites.github.io/assets/1B7vm9FDg/map-1.png)
+![map-1](/arodenites.github.io/carrion-crown/assets/1B7vm9FDg/map-1.png)

@@ -2,8 +2,8 @@ site_name: Carrion Crown Wiki
 site_description: Pathfinder 1e campaign wiki
 site_url: https://ahmfr0636.github.io/arodenites.github.io/
 repo_url: https://github.com/ahmfr0636/arodenites.github.io
-docs_dir: docs/carrion crown
-edit_uri: edit/main/docs/carrion crown/
+docs_dir: docs
+edit_uri: edit/main/docs/
 use_directory_urls: false
 
 theme:
@@ -34,34 +34,34 @@ plugins:
   - search
 
 nav:
-  - Home: index.md
-  - Overview: overview.md
+  - Home: carrion-crown/index.md
+  - Overview: carrion-crown/overview.md
   - Party:
-      - party/index.md
-      - Herzem al-Gaib: party/herzem-al-gaib.md
-      - Elroth Mornros: party/elroth-mornros.md
-      - Thomas Ruckus: party/thomas-ruckus.md
-      - Darian Vargo: party/darian-vargo.md
-      - Ronin Olaru: party/ronin-olaru.md
+      - carrion-crown/party/index.md
+      - Herzem al-Gaib: carrion-crown/party/herzem-al-gaib.md
+      - Elroth Mornros: carrion-crown/party/elroth-mornros.md
+      - Thomas Ruckus: carrion-crown/party/thomas-ruckus.md
+      - Darian Vargo: carrion-crown/party/darian-vargo.md
+      - Ronin Olaru: carrion-crown/party/ronin-olaru.md
       - Allies:
-          - party/allies/index.md
-          - David: party/allies/david.md
-          - Hippogriff: party/allies/hippogriff.md
-  - Timeline: timeline.md
+          - carrion-crown/party/allies/index.md
+          - David: carrion-crown/party/allies/david.md
+          - Hippogriff: carrion-crown/party/allies/hippogriff.md
+  - Timeline: carrion-crown/timeline.md
   - Sessions:
-      - session/index.md
-      - Session 1: session/session-1.md
+      - carrion-crown/session/index.md
+      - Session 1: carrion-crown/session/session-1.md
   - Locations:
-      - locations/index.md
+      - carrion-crown/locations/index.md
       - Ravengro & Harrowstone:
-          - locations/ravengro-and-harrowstone/index.md
-          - General Info & Story: locations/ravengro-and-harrowstone/general-info-and-story.md
+          - carrion-crown/locations/ravengro-and-harrowstone/index.md
+          - General Info & Story: carrion-crown/locations/ravengro-and-harrowstone/general-info-and-story.md
           - NPCs:
-              - locations/ravengro-and-harrowstone/npcs/index.md
-              - Friendly: locations/ravengro-and-harrowstone/npcs/friendly.md
-              - Neutral: locations/ravengro-and-harrowstone/npcs/neutral.md
-              - Enemy: locations/ravengro-and-harrowstone/npcs/enemy.md
+              - carrion-crown/locations/ravengro-and-harrowstone/npcs/index.md
+              - Friendly: carrion-crown/locations/ravengro-and-harrowstone/npcs/friendly.md
+              - Neutral: carrion-crown/locations/ravengro-and-harrowstone/npcs/neutral.md
+              - Enemy: carrion-crown/locations/ravengro-and-harrowstone/npcs/enemy.md
   - Organizations:
-      - organizations/index.md
-      - Whispering Way: organizations/whispering-way.md
-  - Mobs: mobs.md
+      - carrion-crown/organizations/index.md
+      - Whispering Way: carrion-crown/organizations/whispering-way.md
+  - Mobs: carrion-crown/mobs.md
