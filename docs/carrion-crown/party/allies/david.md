@@ -19,4 +19,4 @@ Kişilik özellikleri:
 - Kötülükten uzak
 
 Kendisindeki kolye şu an Herzem'in üstündedir. Herzem'in ilk Holy Symbol'ı ise David'de bulunmakta.
-<img src="/carrion-crown/assets/HOJqO3KvR/david.png" width="500" align="center">
+<img src="../../assets/HOJqO3KvR/david.png" width="500" align="center">

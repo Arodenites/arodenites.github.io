@@ -12,4 +12,4 @@ Yetenekleri:
 - Attack command(Ronin)
 - Burst Wind(uçarken)
 - İyi tracker
-<img src="/carrion-crown/assets/9EyqdqFDR/hippogriff.png" width="500" align="center">
+<img src="../../assets/9EyqdqFDR/hippogriff.png" width="500" align="center">
