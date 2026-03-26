@@ -27,7 +27,7 @@ Karakteristik özellikleri:
 - Çoğunlukla gergin, bazense sevecen
 - Sarenrae, David veya Elroth için canından vazgeçer
 
-<img src="../assets/kFLFm9KDg/herzem_2.png" width="400" align="left">
+<img src="../assets/kFLFm9KDg/herzem_2.png" width="400">
 
 ---
 
