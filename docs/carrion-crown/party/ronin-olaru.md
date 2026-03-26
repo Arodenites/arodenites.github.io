@@ -2,7 +2,7 @@
 title: Ronin Olaru
 ---
 # Ronin Olaru
-<img src="/arodenites.github.io/carrion-crown/assets/eUVsi9FvR/ronin.png" width="400" align="center">
+<img src="/carrion-crown/assets/eUVsi9FvR/ronin.png" width="400" align="center">
 
 # Character info
 Ronin gece tezgâhlarının kimsesizliğinden doğup, kaybetmenin acısıyla sertleşmiş kimseye güvenemeyen ama hâlâ ait olacağı bir yer arayan yalnız bir korucu.
