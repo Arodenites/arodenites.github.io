@@ -26,7 +26,7 @@ Lastwall'da büyüdüğü için hata kaldırmayan ve doğrularına fazlasıyla b
 
 Sarenrae,Herzem için canından vazgeçer
 
-<img src="/arodenites.github.io/carrion-crown/assets/NosYirKDR/chatgpt-image-mar-24-2026-05_16_00-pm.png" width="400" align="center">
+<img src="/carrion-crown/assets/NosYirKDR/chatgpt-image-mar-24-2026-05_16_00-pm.png" width="400" align="center">
 
 
 ## **Güneşin Altında Doğan**
