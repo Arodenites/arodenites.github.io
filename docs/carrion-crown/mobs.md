@@ -168,7 +168,7 @@ Undead are once-living creatures animated by spiritual or supernatural forces.
 <img src="assets/3Uk2AqKvR/skeleton.png" width="500" align="center">
 
 ## Vampires
-<img src="assets/3Uk2AqKvR/vampire.png" width="500" align="center">
+<img src="assets/3Uk2AqKvR/vampire.png" width="500" align="right">
 
 Bazı kötülükler bir anda çökmez insanın üzerine. Önce uzaktan izler. Sonra adını öğrenir.
 Ardından sesini, korkularını, hangi saatte yalnız kaldığını, hangi anlarda güçsüz düştüğünü
