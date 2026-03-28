@@ -6,6 +6,7 @@ title: Mobs
 - [ANIMALS](#animals)
   - [Rat Swarm](#rat-swarm)
   - [Wolves](#wolves)
+  - [Rhinos](#rhinos)
 
 - [CONSTRUCT](#constructs)
   - [Animated Jacket](#animated-jacket)
@@ -24,6 +25,7 @@ title: Mobs
 
 - [HUMANOIDS](#humanoids)
   - [Gibbs](#gibbs)
+  - [Orcs](#Orcs)
 
 - [MAGICAL BEASTS](#magical-beasts)
   - [Stirges](#stirges)
@@ -63,6 +65,11 @@ An animal is a living, nonhuman creature, usually a vertebrate with no magical a
 
 ## Wolves
 <img src="assets/3Uk2AqKvR/direwolf.webp" width="500" align="center">
+
+## Rhinos
+<img src="assets/3Uk2AqKvR/Rhino.png" width="500" align="left">
+
+Rhinoların kalın derileri onlara büyük koruma sağlar. Charge attackları yüksek damagelar çıkarırken, durduklarında vurduğu hasarlar daha düşüktür. 
 
 ---
 # Construct
@@ -104,6 +111,11 @@ A humanoid usually has two arms, two legs, and one head, or a human-like torso, 
 
 ## Gibbs
 <img src="assets/3Uk2AqKvR/gibbs.png" width="500" align="center">
+
+## Orc
+<img src="assets/3Uk2AqKvR/orc.png" width="500" align="left">
+
+Orklar güç bazlı yaratıkları olsa dahi, aralarında barbarı, savaşçısı, avcısı veya nişancısı olabilir. Rage'e girebilirler ve yaptıkları saldırılar epey güçlüdür.
 
 ---
 # Magical Beasts
