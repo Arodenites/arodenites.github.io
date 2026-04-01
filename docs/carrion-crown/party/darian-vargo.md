@@ -13,4 +13,10 @@ Uygun malzemeleri kara borsadan almayı
 Zayıfları ezmeyi
 Gerektiğinde öldürmekten çekinmemeyi öğrendi.
 
-Zamanla uyuşturucu, patlayıcı madde ve zehirli ilaçlarla ilgilenen bir araştırmacı oldu.
+Zamanla uyuşturucu, patlayıcı madde ve zehirli ilaçlarla ilgilenen bir şarlatan oldu.
+
+İnanç olarak Sarenrae’nin öğretilerini benimsediğini söyleyerek, saklanmak için kendisine bir kılıf uydurdu.
+Gerçeği ortaya çıkar, adil yargıla, merhamet göster, ama kötülük devam ederse durdur gibi şeylere inandığını anlattı insanlara. Böylece kimse ondan şüphelenmeyecekti.
+
+Bir süre birlikte çalıştığı Profesör Lorrimor ile güçlü bir bağ kurarak normalde ulaşamayacağı malzemelere ulaştı. Bu sırada yanlışlıkla Profesör'ün hayatını kurtararak iyice güvenini kazandı.
+
