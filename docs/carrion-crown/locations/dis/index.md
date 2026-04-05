@@ -1,5 +1,5 @@
 ---
-title: Dys
+title: Dis
 ---
 
 [General Info](general-info)

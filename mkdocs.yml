@@ -70,9 +70,9 @@ nav:
       - Tamrivena: 
           - carrion-crown/locations/tamrivena/index.md
           - General Info: carrion-crown/locations/tamrivena/general-info.md
-      - Dys: 
-          - carrion-crown/locations/dys/index.md
-          - General Info: carrion-crown/locations/dys/general-info.md
+      - Dis: 
+          - carrion-crown/locations/dis/index.md
+          - General Info: carrion-crown/locations/dis/general-info.md
   - Organizations:
       - carrion-crown/organizations/index.md
       - Whispering Way: carrion-crown/organizations/whispering-way.md

@@ -7,7 +7,7 @@ title: General Info
 
 # General Info
 
-Dys, “Sonsuz Şehir” olarak bilinen bir devil şehridir. Mekân, gerçeklik algısını zorlayan büyüklükte ve yapıda görünmektedir.
+Dis, “Sonsuz Şehir” olarak bilinen bir devil şehridir. Mekân, gerçeklik algısını zorlayan büyüklükte ve yapıda görünmektedir.
 
 Şehir Özellikleri:
 

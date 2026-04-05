@@ -60,28 +60,46 @@ title: Mobs
 
 ---
 # Animals
-An animal is a living, nonhuman creature, usually a vertebrate with no magical abilities and no innate capacity for language or culture. Animals usually have additional information on how they can serve as companions.
+Bir hayvan; yaşayan, insan dışı, genellikle sihirli yetenekleri ve doğuştan gelen bir dil veya kültür kapasitesi olmayan omurgalı bir yaratıktır. Hayvanlar genellikle nasıl yoldaş (companion) olarak hizmet edebileceklerine dair ek bilgiler içerir.
 
 ## Rat Swarm
 <img src="assets/3Uk2AqKvR/rat_swarm.png" width="500" align="left" style="margin-right: 15px; margin-bottom: 10px;">
 
+Ciyaklayan sıçanlardan oluşan, kıvranan ve çalkalanan bir kütle; dişlerini gıcırdatarak ve yoluna çıkan her şeyi tırmalayarak yaklaşmaktadır.
+
+Bir sıçan sürüsü tipik olarak, fantastik ve karşı konulamaz bir açlığın körüklediği, alışılmadık derecede yüksek bir saldırganlıkla hareket eden, hastalık taşıyan yüzlerce sıçanın ısıran ve kaynaşan kütlesinden oluşur.
+
+Özel Saldırılar: Hastalık
+
+Yakın Dövüş: Sürü (swarm)
+
 ## Wolves
 <img src="assets/3Uk2AqKvR/direwolf.webp" width="500" align="left" style="margin-right: 15px; margin-bottom: 10px;">
 
+Bu güçlü köpek türü, keskin beyaz dişlerinin üzerinde dilini gezdirerek avını delici sarı gözlerle izler.
+
+Yakın Dövüş: Isırma (bite)
+
+İster tek başlarına ister sürüler halinde dolaşsınlar, kurtlar besin zincirinin en tepesinde yer alırlar.
+
 ## Rhinos
-<img src="assets/3Uk2AqKvR/Rhino.png" width="500" align="left">
+<img src="assets/3Uk2AqKvR/Rhino.png" width="500" align="left" style="margin-right: 15px; margin-bottom: 10px;">
 
 Rhinoların kalın derileri onlara büyük koruma sağlar. Charge attackları yüksek damagelar çıkarırken, durduklarında vurduğu hasarlar daha düşüktür. 
 
 ---
 # Construct
-A construct is an animated object or artificially created creature.
+Bir yapay; canlandırılmış bir nesne veya yapay olarak yaratılmış bir yaratıktır.
 
 ## Animated Shackles
 <img src="assets/3Uk2AqKvR/construct_kelepce.png" width="500" align="left" style="margin-right: 15px; margin-bottom: 10px;">
 
+Canlandırılmış nesne tek bir canavar değil, koca bir kategoridir. Karakterleri prangalamaya (zincire vurmaya) çalışırlar.
+
 ## Animated Jacket
 <img src="assets/3Uk2AqKvR/haunt_jacket.png" width="500" align="left" style="margin-right: 15px; margin-bottom: 10px;">
+
+Canlandırılmış nesne tek bir canavar değil, koca bir kategoridir. Eğer ilk saldıran siz olursanız öldürülmesi oldukça kolaydır.
 
 ---
 # Dragons
@@ -94,7 +112,11 @@ A construct is an animated object or artificially created creature.
 
 # Haunts
 
-The distinction between a trap and an undead creature blurs when you introduce a haunt—a hazardous region created by unquiet spirits that react violently to the presence of the living. The exact conditions that cause a haunt to manifest vary from case to case—but haunts always arise from a source of terrific mental or physical anguish endured by living, tormented creatures. A single, source of suffering can create multiple haunts, or multiple sources could consolidate into a single haunt. The relative power of the source has little bearing on the strength of the resulting haunt—it’s the magnitude of the suffering or despair that created the haunt that decides its power. Often, undead inhabit regions infested with haunts—it’s even possible for a person who dies to rise as a ghost (or other undead) and trigger the creation of numerous haunts. A haunt infuses a specific area, and often multiple haunted areas exist within a single structure. The classic haunted house isn’t a single haunt, but usually a dozen or more haunted areas spread throughout the structure.
+Bir tuzak ile bir hortlak arasındaki fark, işin içine bir "musallat" girdiğinde bulanıklaşır. Musallat; yaşayanların varlığına şiddetle tepki veren, huzursuz ruhlar tarafından oluşturulmuş tehlikeli bir bölgedir. Bir musallatın ortaya çıkmasına neden olan kesin koşullar vakadan vakaya değişir; ancak musallatlar her zaman acı çeken, eziyet görmüş canlıların katlandığı müthiş bir zihinsel veya fiziksel ıstırap kaynağından doğar.
+
+Tek bir acı kaynağı birden fazla musallat yaratabileceği gibi, birden fazla kaynak tek bir musallatta birleşebilir. Kaynağın göreceli gücünün, ortaya çıkan musallatın gücü üzerinde çok az etkisi vardır; musallatın gücünü belirleyen şey, onu yaratan acı veya çaresizliğin boyutudur. Genellikle hortlaklar, musallatların istila ettiği bölgelerde yaşarlar; hatta ölen bir kişinin hayalet (veya başka bir hortlak) olarak dirilmesi ve sayısız musallatın oluşmasını tetiklemesi bile mümkündür.
+
+Bir musallat belirli bir alanı etkisi altına alır ve genellikle tek bir yapı içinde birden fazla musallatlı alan bulunur. Klasik bir "perili ev" tek bir musallat değil, genellikle yapının geneline yayılmış bir düzine veya daha fazla musallatlı alandan oluşur.
 
 ## Blood-Writ Names
 
@@ -109,22 +131,29 @@ The distinction between a trap and an undead creature blurs when you introduce a
 
 ---
 # Humanoids
-A humanoid usually has two arms, two legs, and one head, or a human-like torso, arms, and a head. Humanoids have few or no supernatural or extraordinary abilities, but most can speak and usually have well-developed societies. They are usually Small or Medium (with the exception of giants). Every humanoid creature also has a specific subtype to match its race, such as human, giant, goblinoid, reptilian, or tengu.
-
-## Gibbs
-<img src="assets/3Uk2AqKvR/gibbs.png" width="500" align="left" style="margin-right: 15px; margin-bottom: 10px;">
+Bir insansı genellikle iki kola, iki bacağa ve bir kafaya ya da insan benzeri bir gövdeye, kollara ve bir kafaya sahiptir. İnsansıların doğaüstü veya olağanüstü yetenekleri azdır veya hiç yoktur; ancak çoğu konuşabilir ve genellikle gelişmiş toplumlara sahiptir. Genellikle Küçük (Small) veya Orta (Medium) boyuttadırlar (devler hariç). Her insansı yaratığın ayrıca insan, dev, goblinoid, sürüngen veya tengu gibi ırkına uygun belirli bir alt türü vardır.
 
 ## Orc
-<img src="assets/3Uk2AqKvR/orc.png" width="500" align="left">
+<img src="assets/3Uk2AqKvR/orc.png" width="500" align="left" style="margin-right: 15px; margin-bottom: 10px;">
 
 Orklar güç bazlı yaratıkları olsa dahi, aralarında barbarı, savaşçısı, avcısı veya nişancısı olabilir. Rage'e girebilirler ve yaptıkları saldırılar epey güçlüdür.
 
 ---
 # Magical Beasts
-Magical beasts are similar to animals but can have Intelligence scores higher than 2 (in which case the magical beast knows at least one language, but can’t necessarily speak). Magical beasts usually have supernatural or extraordinary abilities, but are sometimes merely bizarre in appearance or habits.
+Büyülü canavarlar hayvanlara benzerler ancak Zeka (Intelligence) skorları 2'den yüksek olabilir (bu durumda büyülü canavar en az bir dil bilir, ancak mutlaka konuşabilmesi gerekmez). Büyülü canavarlar genellikle doğaüstü veya olağanüstü yeteneklere sahiptir, ancak bazen sadece görünüş veya alışkanlık bakımından tuhaftırlar.
 
 ## Stirges
 <img src="assets/3Uk2AqKvR/sturge.png" width="500" align="left" style="margin-right: 15px; margin-bottom: 10px;">
+
+Bu böceğimsi yaratığın iki çift yarasa kanadı, birbirine karışmış ince bacakları ve iğne keskinliğinde bir hortumu (proboscis) vardır.
+
+ÖN (SQ): Hastalıklı
+
+Özel Saldırılar: Kan emme
+
+Stirge'ler; vahşi hayvanları, besi hayvanlarını ve tedbirsiz yolcuları avlayan, bataklıklarda yaşayan saldırgan ve kan emici zararlılardır.
+
+Bir stirge, bir düşmana yapışmış durumdaysa sırasının sonunda kan emerek 1 puan Bünye (Constitution) hasarı verir.
 
 ---
 
@@ -146,6 +175,7 @@ Sıradan görünen bir su birikintisi, nemli bir taş parçası veya parıldayan
 - Yakın Dövüş: Ezme (slam)
 
 Gri peltemsiyi kaplayan sindirim asidi metalleri ve organik maddeleri eritir. Gri peltemsi tarafından yakalanan (grappled) bir yaratığın giydiği zırh veya kıyafet, giyen kişi Refleks kurtarma atışında başarılı olamadığı sürece aynı miktarda asit hasarı alır. Canlı renklerden yoksun olması nedeniyle, çoğu ortamda bir gri peltemsiyi çevresinden ayırt etmek oldukça zordur.
+
 ---
 
 # Outsiders
@@ -154,7 +184,7 @@ Bir outsider, en azından kısmen Materyal Düzlem dışındaki başka bir düzl
 ## Devils
 <img src="assets/3Uk2AqKvR/devil.png" width="500" align="left" style="margin-right: 15px; margin-bottom: 10px;">
 
-Şeytanlar, Cehennem düzleminden gelen "kanuni kötü" (lawful evil) dutsiderlardır. Ateşe karşı bağışıklıkları vardır. Çok kurnaz olmalarına rağmen genellikle sözlerini tutarlar.
+Şeytanlar, Cehennem düzleminden gelen "kanuni kötü" (lawful evil) outsiderlardır. Ateşe karşı bağışıklıkları vardır. Çok kurnaz olmalarına rağmen genellikle sözlerini tutarlar.
 
 ---
 
@@ -389,7 +419,7 @@ Bu yaratıklar, alt sınıf akrabalarına (sıradan gulyabanilere) fiziksel olar
 ---
 
 # Vermin
-This type includes insects, arachnids, other arthropods, worms, and similar invertebrates.
+Bu tür; böcekleri, örümcekgilleri, diğer eklem bacaklıları, solucanları ve benzeri omurgasızları içerir.
 
 ## Giant Centipedes
 
